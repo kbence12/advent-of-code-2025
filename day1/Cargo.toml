@@ -1,0 +1,12 @@
+[package]
+name = "day1"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+anyhow = "1.0.100"
+eyre = "0.6.12"
+
+[[bin]]
+name = "day1"
+path = "main.rs"

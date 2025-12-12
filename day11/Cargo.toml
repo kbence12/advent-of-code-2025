@@ -1,0 +1,10 @@
+[package]
+name = "day11"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+anyhow = "1.0.100"
+eyre = "0.6.12"
+ndarray = "0.17.1"
+petgraph = "0.8.3"
